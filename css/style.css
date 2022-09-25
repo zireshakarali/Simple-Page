@@ -1,0 +1,33 @@
+/* 
+   *{}
+   p {  }
+   .class-name{}
+   #id-name{}
+   inline-style
+
+
+   .class-name h1   
+*/
+h1{
+    color: aqua;
+    font-size: 50px;
+    font-weight: 100;
+}
+mark{
+    background-color: blueviolet;
+}
+
+p mark{
+    background-color: brown;
+}
+.text{
+    text-transform: uppercase;
+    color: gray;
+    font-weight: bold ;
+}
+.text-large{
+    text-transform: capitalize;
+    color: brown;
+    font-weight: bolder;
+}
+
